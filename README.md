@@ -96,7 +96,7 @@ The projects contains following files:
 
 --README.md     :       this file
 
---makefile      :       the makefile of this porject
+--makefile      :       the makefile of this project
 
 --wave.c        :       the module containing functions about wave processing
 
