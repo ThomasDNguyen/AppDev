@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 https://github.com/ThomasDNguyen/AppDev
 
 #This is version 1 of git Example.
@@ -141,6 +140,3 @@ The projects contains following files:
 		# THE END #
 =======
 # AppDev
-# AppDev
-# AppDev
->>>>>>> 9c374ed24e788e8c71c3ec51654613bb8fca5992
